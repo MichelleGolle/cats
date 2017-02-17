@@ -1,0 +1,11 @@
+one:
+  name: Fuzzy
+  breed: DSH
+
+two:
+  name: Baldy
+  breed: Sphynx
+
+three:
+  name: Princess
+  breed: Persian
